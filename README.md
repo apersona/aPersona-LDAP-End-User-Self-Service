@@ -5,4 +5,4 @@ LDAP AD Secured End-User Self-Service Application for Password Updates and Passw
 -Prevents password guessing.
 -Prevents brute force attacks.
 -Prevents hacker initiated account locking.
-For more information contact apersona at: info@apersona.com
+For more information contact apersona at: https://www.apersona.com/contact-us
